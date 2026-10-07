@@ -21,3 +21,10 @@ I also contribute to [ZSetup](https://github.com/zsetup). Organization project r
 My [academic ePortfolio](https://script-amv.github.io) contains computer science coursework and code-review material.
 
 Repositories tagged `coursework` contain academic projects. Repositories tagged `learning-project` contain exercises and algorithm practice; completed web fundamentals exercises are archived.
+
+## Repository directory
+
+- Applications: [AnkiHub](https://github.com/script-amv/ankihub), [LaunchLens](https://github.com/script-amv/launchlens), [Portfolio](https://github.com/script-amv/portfolio).
+- Coursework: [CS 330](https://github.com/script-amv/cs-330), [CS 465](https://github.com/script-amv/cs-465), and the [academic ePortfolio](https://script-amv.github.io). Additional course repositories are private.
+- Practice: [LeetCode solutions](https://github.com/script-amv/leetcode-solutions), [JavaScript exercises](https://github.com/script-amv/javascript-exercises), and [HAL website redesign](https://github.com/script-amv/hal-website-redesign).
+- Completed browser exercises: [web-fundamentals](https://github.com/script-amv/web-fundamentals). The original exercise repositories retain their history.
