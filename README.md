@@ -1,6 +1,6 @@
 # Dmitrii Shostak
 
-Full-stack / frontend developer working with React, Next.js, and TypeScript.
+Full-stack / frontend developer
 
 [Portfolio](https://dmitriishostak.vercel.app) · [Email](mailto:dmitshostak@gmail.com)
 
